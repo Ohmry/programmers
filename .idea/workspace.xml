@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc325089-5ddc-44fa-86f8-8acc36519cb7" name="Changes" comment="" />
+    <list default="true" id="fc325089-5ddc-44fa-86f8-8acc36519cb7" name="Changes" comment="initialized">
+      <change afterPath="$PROJECT_DIR$/src/P1835.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1829.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1829.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BvqFw4PjmUB2oKPQ1qwppZ8ky0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Programmers">
     <configuration name="P1829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1829" />
       <module name="programmers" />
@@ -30,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Programmers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers" />
+      <module name="programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programmers" />
         <item itemvalue="Application.P1829" />
       </list>
     </recent_temporary>
@@ -45,6 +69,29 @@
       <option name="presentableId" value="Default" />
       <updated>1657796808925</updated>
     </task>
+    <task id="LOCAL-00001" summary="initialized">
+      <created>1657796964029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657796964029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialized" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized" />
   </component>
 </project>

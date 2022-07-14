@@ -104,7 +104,7 @@ public class P1829 {
         }
     }
 
-    class Cell {
+    public class Cell {
         int area;
         int value;
 
